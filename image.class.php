@@ -73,6 +73,6 @@
 
     $image->wenzi('./image/msyh.ttf','hello',255,255,255);
 
-    $image->imageThumd(300);
+    $image->imageThumd(500);
 
     $image->show();
